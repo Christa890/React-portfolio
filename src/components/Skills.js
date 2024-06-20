@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 
 const frontend = [
   {
-    name: "HTML/CSS",
+    name: "React",
     value: 80,
     icon: CheckCircleIcon,
   },
@@ -15,12 +15,12 @@ const frontend = [
     icon: CheckCircleIcon,
   },
   {
-    name: "React",
+    name: "HTML/CSS",
     value: 80,
     icon: CheckCircleIcon,
   },
   {
-    name: "Bootstrap",
+    name: "Material UI",
     value: 60,
     icon: CheckCircleIcon,
   },

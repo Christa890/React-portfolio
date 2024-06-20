@@ -15,7 +15,7 @@ const projects = [
   {
     id: 2,
     name: "Exceed",
-    href: "https://cjwhat.github.io/Excel-clone/",
+    href: "https://christa890.github.io/Excel-Clone/",
     imageSrc:
       "https://fastly.picsum.photos/id/504/5000/3333.jpg?hmac=tciW_3YQNlNNRCEM360bpaoyliNKAZ4aioVTTNLmTZk",
     used: "Javascript",

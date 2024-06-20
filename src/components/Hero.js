@@ -188,7 +188,7 @@ export default function Hero() {
                     </a>
                   </button>
                   <button className="btn btn-outline btn-square" >
-                  <a href="https://github.com/CJwhat">
+                  <a href="https://github.com/Christa890">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="h-8 w-8"

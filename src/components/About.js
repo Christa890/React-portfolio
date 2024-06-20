@@ -16,7 +16,7 @@ const features = [
   },
   {
     name: "Email:",
-    description: "christajoshy890@gmail.com",
+    description: "christajoshy@gmail.com",
     icon: AtSymbolIcon,
   },
   {
