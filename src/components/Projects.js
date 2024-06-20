@@ -44,7 +44,7 @@ export default function Projects() {
         <p className="mt-2 text-4xl font-bold tracking-tight sm:text-6xl">
           Projects
         </p>
-        <div className="mt-10 grid grid-cols-3 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8 flex justify-between ">
+        <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-3 lg:grid-cols-3 xl:gap-x-8 flex justify-center ">
           {projects.map((project) => (
             <div
               key={project.id}
@@ -58,7 +58,7 @@ export default function Projects() {
                   className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                 />
               </div>
-              <div className="mt-4 flex justify-between p-4">
+              <div className="mt-4 flex justify-center p-4">
                 <div className="p-4">
                   <h3 className="text-lg font-bold">
                     <a href={project.href}>
