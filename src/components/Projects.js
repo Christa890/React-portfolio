@@ -58,7 +58,7 @@ export default function Projects() {
                   className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                 />
               </div>
-              <div className="mt-4 flex justify-center p-4">
+              <div className="mt-4 flex justify-between p-4">
                 <div className="p-4">
                   <h3 className="text-lg font-bold">
                     <a href={project.href}>
